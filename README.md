@@ -9,6 +9,7 @@ No account. No ads. Your cycle data stays on your phone.
 
 ## Features
 
+
 - **Predictions that learn** from your own cycle history
 - **Reminders** before your period, with a discreet mode
 - **Know when to ask a doctor**: flags missed, long or heavy periods, severe pain and signs of PCOS
