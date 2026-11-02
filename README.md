@@ -4,7 +4,7 @@
 
 No account. No ads. Your cycle data stays on your phone.
 
-🌐 Website: https://inventornext.github.io/cyclewise
+🌐 Website: https://inventornext.github.io/CycleWise
 📱 Google Play: coming soon
 
 ## Features
